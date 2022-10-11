@@ -1,2 +1,11 @@
-# import-csv-with-nodejs
-import data through CSV with in express.
+# Import Data Through CSV
+
+Upload CSV file and Import Data through CSV using express
+
+# For run Project
+
+npm i
+
+# then start with
+
+npm start
